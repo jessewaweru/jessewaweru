@@ -1,5 +1,8 @@
-## Halo 👋 , I'm a Data enthusiast and passionate Data Analyst focusing on Python,SQL,Power Bi,and Google Sheets. I love and believe in a continous learning and development mindset in both life and work.one. Working in Code and Data. ##
-- 👀 I’m interested in developing and furthering my skills through collaboaration with genuine peers across the world.
+## Halo 👋 ##
+
+I'm a Data enthusiast and passionate Data Analyst focusing on Python,SQL,Power Bi,and Google Sheets. I love and believe in a continous learning and development mindset in both life and work.one. Working in Code and Data. 
+
+- 👯 I’m interested in developing and furthering my skills through collaboaration with genuine peers across the world.
 - 🌱 I’m currently working on furthering my python skills through projects.
 - 📚 Reading The Power of Habit: Why We Do What We Do in Life and Business.
 - 💞️ I’m looking to collaborate on Analytical jobs that feature marketing and business operations.
