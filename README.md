@@ -1,4 +1,4 @@
-## Halo 👋 ##
+## Halo 👋 , Mi nombre es Jes y solo soy una persona curiosa. ##
 
 I'm a Data enthusiast and passionate Data Analyst focusing on Python,SQL,Power Bi,and Google Sheets. I love and believe in a continous learning and development mindset in both life and work.one. Working in Code and Data. 
 
