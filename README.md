@@ -6,7 +6,7 @@ I'm a Data enthusiast and passionate Data Analyst focusing on Python,SQL,Power B
 - 🌱 I’m currently working on furthering my python skills through projects.
 - 📚 Reading The Power of Habit: Why We Do What We Do in Life and Business.
 - 💞️ I’m looking to collaborate on Analytical jobs that feature marketing and business operations.
-- ⚡ Fun fact: ... If life gives you lemonade, make lemoms life will be like,"Whaaaaaaat 😲"
+- ⚡ If life gives you lemonade, make lemoms life will be like,"Whaaaaaaat 😲"
 
 ### Goals for 2024 💪
 
