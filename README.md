@@ -1,6 +1,6 @@
 ## Hola 👋 , Mi nombre es Jes y solo soy una persona curiosa. ##
 
-I'm a Data enthusiast and passionate Data Analyst focusing on Python,SQL,Power Bi,and Google Sheets. I love and believe in a continous learning and development mindset in both life and work.one. Working in Code and Data. 
+I'm a Data enthusiast and passionate Data Analyst focusing on Python,SQL,Power Bi,and Google Sheets. I love and believe in a continous learning and development mindset in both life and work. 
 
 - 👯 I’m interested in developing and furthering my skills through collaboaration with genuine peers across the world.
 - 🌱 I’m currently working on furthering my python skills through projects.
