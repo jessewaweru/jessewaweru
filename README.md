@@ -18,10 +18,10 @@ Connect with an awesome Developer community to learn and collaborate on amazing 
         <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/material-rounded/48/92C73A/django.png" alt="Django" width="48" height="48"/>
+        <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" width="100" height="40"/>
     </a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/ios-filled/50/EF3B2D/api-settings.png" alt="Django REST Framework" width="48" height="48"/>
+        <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="100" height="40"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="48" height="48"/>
