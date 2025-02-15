@@ -1,14 +1,13 @@
 ## Hola 👋 , Mi nombre es Jes y solo soy una persona curiosa. ##
 
-I'm a Data enthusiast and passionate Data Analyst focusing on Python,SQL,Power Bi,and Google Sheets. I love and believe in a continous learning and development mindset in both life and work. 
+I'm a passionate backend developer specializing in Python, Django, and REST APIs. I focus on building scalable, efficient, and secure backend systems while continuously improving my skills in database management, system architecture, and performance optimization. I believe in lifelong learning and staying up to date with modern backend technologies to build robust applications. 
 
-- 👯 I’m interested in developing and furthering my skills through collaboaration with genuine peers across the world.
-- 🌱 I’m currently working on furthering my python skills through projects.
+- 👯 I’m interested in developing and furthering my programming skills through collaboration with genuine peers across the world.
+- 🌱 I’m currently working on furthering my python and programming skills through projects.
 - 📚 Reading The Power of Habit: Why We Do What We Do in Life and Business.
-- 💞️ I’m looking to collaborate on Analytical jobs that feature marketing and business operations.
 - ⚡ If life gives you lemonade, make lemoms life will be like,"Whaaaaaaat 😲"
 
-### Goals for 2024 💪
+### Goals for 2025 💪
 
 Connect with an awesome Data community to learn and collaborate on amazing an innovative ideas not just in Data but contributing together on ways of improving our world for the better🙂.
 
