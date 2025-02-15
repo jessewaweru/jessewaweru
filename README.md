@@ -17,6 +17,12 @@ Connect with an awesome Developer community to learn and collaborate on amazing 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/>
     </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/material-rounded/48/92C73A/django.png" alt="Django" width="48" height="48"/>
+    </a>
+    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/ios-filled/50/EF3B2D/api-settings.png" alt="Django REST Framework" width="48" height="48"/>
+    </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="48" height="48"/>
     </a>
