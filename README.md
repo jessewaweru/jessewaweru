@@ -26,6 +26,12 @@ Connect with an awesome Developer community to learn and collaborate on amazing 
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="48" height="48"/>
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
+    </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="48" height="48"/>
+    </a>
 </p>
 
 
