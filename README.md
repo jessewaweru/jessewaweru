@@ -1,10 +1,9 @@
 ## Hola 👋 , Mi nombre es Jes y solo soy una persona curiosa. ##
 
-I'm a passionate backend developer specializing in Python, Django, and REST APIs. I focus on building scalable, efficient, and secure backend systems while continuously improving my skills in database management, system architecture, and performance optimization. I believe in lifelong learning and staying up to date with modern backend technologies to build robust applications. 
+I'm a passionate backend developer specializing in Python, Django, and Django Rest Framework alongside complementary frontend development skills in JavaScript, and React. I focus on building scalable, efficient, and secure backend systems while continuously improving my skills in database management, system architecture, and performance optimization. I believe in lifelong learning and staying up to date with modern backend technologies to build robust applications. 
 
 - 👯 I’m interested in developing and furthering my programming skills through collaboration with genuine peers across the world.
 - 🌱 I’m currently working on furthering my python and programming skills through projects.
-- 📚 Reading The Power of Habit: Why We Do What We Do in Life and Business.
 - ⚡ If life gives you lemonade, make lemoms life will be like,"Whaaaaaaat 😲"
 
 ### Goals for 2025 💪
